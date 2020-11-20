@@ -1,0 +1,13 @@
+C:\Profesionalni projekti\c#\main\main\bin\Debug\netcoreapp3.1\main.exe
+C:\Profesionalni projekti\c#\main\main\bin\Debug\netcoreapp3.1\main.deps.json
+C:\Profesionalni projekti\c#\main\main\bin\Debug\netcoreapp3.1\main.runtimeconfig.json
+C:\Profesionalni projekti\c#\main\main\bin\Debug\netcoreapp3.1\main.runtimeconfig.dev.json
+C:\Profesionalni projekti\c#\main\main\bin\Debug\netcoreapp3.1\main.dll
+C:\Profesionalni projekti\c#\main\main\bin\Debug\netcoreapp3.1\main.pdb
+C:\Profesionalni projekti\c#\main\main\obj\Debug\netcoreapp3.1\main.csprojAssemblyReference.cache
+C:\Profesionalni projekti\c#\main\main\obj\Debug\netcoreapp3.1\main.csproj.CoreCompileInputs.cache
+C:\Profesionalni projekti\c#\main\main\obj\Debug\netcoreapp3.1\main.AssemblyInfoInputs.cache
+C:\Profesionalni projekti\c#\main\main\obj\Debug\netcoreapp3.1\main.AssemblyInfo.cs
+C:\Profesionalni projekti\c#\main\main\obj\Debug\netcoreapp3.1\main.dll
+C:\Profesionalni projekti\c#\main\main\obj\Debug\netcoreapp3.1\main.pdb
+C:\Profesionalni projekti\c#\main\main\obj\Debug\netcoreapp3.1\main.genruntimeconfig.cache
